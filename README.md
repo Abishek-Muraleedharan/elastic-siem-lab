@@ -49,7 +49,7 @@ Created a real-time Kibana dashboard with:
 - Security events timeline
 - Event type breakdown
 - Failed vs successful logins
-- Top attacking IPs — caught Kali at 192.168.56.102 with 41 hits
+- Top attacking IPs caught Kali at 192.168.56.102 with 41 hits
 
 ### Real-time SOC Dashboard
 <img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/5619c165-1813-4fa0-85aa-21d6560f972c" />
